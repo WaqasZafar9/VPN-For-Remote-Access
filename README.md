@@ -1,4 +1,4 @@
-echo "# VPN Project Repository
+# VPN Project Repository
 
 ## Introduction
 
